@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flight/static/css/main.34340c2a.chunk.css",
+    "main.js": "/flight/static/js/main.a3009589.chunk.js",
+    "main.js.map": "/flight/static/js/main.a3009589.chunk.js.map",
+    "runtime-main.js": "/flight/static/js/runtime-main.9a6ed14d.js",
+    "runtime-main.js.map": "/flight/static/js/runtime-main.9a6ed14d.js.map",
+    "static/css/2.8e54585f.chunk.css": "/flight/static/css/2.8e54585f.chunk.css",
+    "static/js/2.a382967b.chunk.js": "/flight/static/js/2.a382967b.chunk.js",
+    "static/js/2.a382967b.chunk.js.map": "/flight/static/js/2.a382967b.chunk.js.map",
+    "index.html": "/flight/index.html",
+    "static/css/2.8e54585f.chunk.css.map": "/flight/static/css/2.8e54585f.chunk.css.map",
+    "static/css/main.34340c2a.chunk.css.map": "/flight/static/css/main.34340c2a.chunk.css.map",
+    "static/js/2.a382967b.chunk.js.LICENSE.txt": "/flight/static/js/2.a382967b.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/flight/static/media/bg2.210fe3ed.jpg",
+    "static/media/logo.52b73e8f.png": "/flight/static/media/logo.52b73e8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6ed14d.js",
+    "static/css/2.8e54585f.chunk.css",
+    "static/js/2.a382967b.chunk.js",
+    "static/css/main.34340c2a.chunk.css",
+    "static/js/main.a3009589.chunk.js"
+  ]
+}
